@@ -1,4 +1,4 @@
-# cherry
+# cherry 营销页
 
 > A Vue.js project
 
